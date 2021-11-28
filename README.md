@@ -1,6 +1,6 @@
 
 > Open this page at [https://safpi.github.io/witacz-mikolaja/](https://safpi.github.io/witacz-mikolaja/)
-
+![witacz mikołaja - działający projekt](./witacz-mikolaja.gif)
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
