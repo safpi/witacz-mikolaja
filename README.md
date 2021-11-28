@@ -1,6 +1,13 @@
 
-> Open this page at [https://safpi.github.io/witacz-mikolaja/](https://safpi.github.io/witacz-mikolaja/)
+# Witacz Mikołaja / Santa Claus greeter
+Oto projekt zbudowany na platformę micro:bit z rozszerzenie Maqueen. Jego zadaniem jest wykrycie obecności Mikołaja z użyciem czujnika ultradźwiękowego (z Maqueen). Po wykryciu obecności Mikołaja w ramach powitania mrugają diody i wyświetlana jest czapka Mikołaja.
+
+English description:
+This is a project on the micro:bit platform with Maqueen extension. The goal of this project is to detect presence of Santa Claus using ultrasound sensor (from Maqueen). When Santa is detected the Led Lights are blinking and Santas' hat is displayed.
+
 ![witacz mikołaja - działający projekt](./witacz-mikolaja.gif)
+> Open this page at [https://safpi.github.io/witacz-mikolaja/](https://safpi.github.io/witacz-mikolaja/)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
