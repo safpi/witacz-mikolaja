@@ -32,8 +32,13 @@ basic.forever(function () {
         if (zmierzona_odleglosc <= max_odleglosc && zmierzona_odleglosc >= min_odleglosc) {
         	
         } else {
-            music.playTone(262, music.beat(BeatFraction.Whole))
-            music.playTone(349, music.beat(BeatFraction.Whole))
+            basic.showLeds(`
+                . . . . .
+                . . . # .
+                . . # . .
+                . # # # .
+                # # # # #
+                `)
         }
     }
 })
